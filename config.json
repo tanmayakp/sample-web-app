@@ -1,0 +1,5 @@
+{
+  "env": "prod",
+  "db_password": "DBPASSWORD",
+  "version": "v4"
+}
